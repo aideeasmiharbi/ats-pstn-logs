@@ -1,1 +1,6 @@
 streamlit
+pandas
+plotly
+st-gsheets-connection
+openpyxl
+streamlit-shadcn-ui
